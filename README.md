@@ -4,7 +4,7 @@ This repository contains series of tutorials & detailed information about ELK st
 ## Contents :
 
 - [ELK Overview : Basic Introduction about ELK Stack](ELK-Overview.md)
-- ELK Setup
+- [ELK Setup : ELK-2.0 Installation on Ubuntu 14.04](ELK-Setup.md)
 
 
 
