@@ -205,6 +205,9 @@ update-rc.d elasticsearch defaults 95 10
 ```
 /opt/logstash/bin/logstash -f /etc/logstash/conf.d/logstash.conf
 ```
+
+- Now browse through the apache web pages, so it generates some logs to look
+
 - Check the log parsing output to elasticsearch by browsing to the elastic head plugin
 
 ```
