@@ -75,7 +75,6 @@ dpkg -i elasticsearch-2.2.0.deb
 
 ```
 vi /etc/elasticsearch/elasticsearch.yml
-
 ```
 - Un comment the below lines and give the detail as below.
 
