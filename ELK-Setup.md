@@ -197,7 +197,7 @@ service logstash configtest
 service logstash start
 ```
 ```
-update-rc.d elasticsearch defaults 95 10
+update-rc.d logstash defaults 95 10
 ```
 
 - Now run the below command to forward the logstash logs
