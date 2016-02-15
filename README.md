@@ -7,6 +7,10 @@ This repository contains series of tutorials & detailed information about ELK st
 - [ELK Setup : ELK-2.0 Installation on Ubuntu 14.04](ELK-Setup.md)
 
 
+---
+
+- [Logstash : Basic apache2 configuration](logstash/apache2.conf)
+
 
 ---
 ### References :
